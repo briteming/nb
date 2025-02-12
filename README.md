@@ -3,6 +3,7 @@
 - [ 盧斯達：大多數人只是要川普去收拾混亂不堪的美國](https://github.com/briteming/nb/issues/9) on Feb 12
 - [ 吴洪森：中美会有贸易谈判吗？](https://github.com/briteming/nb/issues/8) on Feb 12
 - [ 顾维钧：美国对华的三大特点](https://github.com/briteming/nb/issues/7) on Feb 12
+- [ 余杰：中国人，为何你的名字叫猪仔、韭菜与人矿？](https://github.com/briteming/nb/issues/14) on Feb 12
 - [ 古代中国最早的情诗，只有四个字-候人兮猗](https://github.com/briteming/nb/issues/13) on Feb 12
 - [ 浣溪沙](https://github.com/briteming/nb/issues/12) on Feb 12
 - [ 我看爱情 作者：纳兰慕容](https://github.com/briteming/nb/issues/11) on Feb 12
